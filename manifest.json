@@ -1,12 +1,13 @@
 {
-    "display_name": "STFolder",
-    "loading_order": 1000,
+    "display_name": "Widget Hider",
+    "loading_order": 999,
     "requires": [],
     "optional": [],
     "js": "index.js",
     "css": "style.css",
-    "author": "aika636",
-    "version": "0.6.0",
-    "auto_update": true,
-    "homePage": "https://github.com/aika636/STFolder"
+    "author": "Custom",
+    "version": "2.8.0",
+    "description": "Скрывает плавающие виджеты расширений. Прямой выбор виджета тапом/кликом (ПК и телефон), быстрая кнопка, центрированный UI.",
+    "homePage": "",
+    "auto_update": false
 }
